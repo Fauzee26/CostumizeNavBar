@@ -12,6 +12,7 @@
 		A0A52B2B1F8C7FEA00C9ED5D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0A52B291F8C7FEA00C9ED5D /* Main.storyboard */; };
 		A0A52B2D1F8C7FEA00C9ED5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0A52B2C1F8C7FEA00C9ED5D /* Assets.xcassets */; };
 		A0A52B301F8C7FEA00C9ED5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0A52B2E1F8C7FEA00C9ED5D /* LaunchScreen.storyboard */; };
+		A0A52B381F8C841100C9ED5D /* android.png in Resources */ = {isa = PBXBuildFile; fileRef = A0A52B371F8C841100C9ED5D /* android.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A0A52B2C1F8C7FEA00C9ED5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0A52B2F1F8C7FEA00C9ED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0A52B311F8C7FEA00C9ED5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0A52B371F8C841100C9ED5D /* android.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = android.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				A0A52B251F8C7FEA00C9ED5D /* AppDelegate.swift */,
 				A0A52B271F8C7FEA00C9ED5D /* ViewController.swift */,
+				A0A52B371F8C841100C9ED5D /* android.png */,
 				A0A52B291F8C7FEA00C9ED5D /* Main.storyboard */,
 				A0A52B2C1F8C7FEA00C9ED5D /* Assets.xcassets */,
 				A0A52B2E1F8C7FEA00C9ED5D /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 				A0A52B301F8C7FEA00C9ED5D /* LaunchScreen.storyboard in Resources */,
 				A0A52B2D1F8C7FEA00C9ED5D /* Assets.xcassets in Resources */,
 				A0A52B2B1F8C7FEA00C9ED5D /* Main.storyboard in Resources */,
+				A0A52B381F8C841100C9ED5D /* android.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
