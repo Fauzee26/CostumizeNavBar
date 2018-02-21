@@ -34,7 +34,7 @@ class ViewController: UIViewController {
         imageView.contentMode = .scaleAspectFill
         
         //memanggil nama gambarNya
-        let image = UIImage(named: "android")
+        let image = UIImage(named: "githubq")
         //menampilkan image ke imageView
         imageView.image = image
         
